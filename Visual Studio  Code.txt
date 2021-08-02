@@ -36,6 +36,7 @@ mouse wheel
 go to code--> preferace==> user snippent
 JavaScript:
 		console log = cons(and hit enter)
+		document.write(); = document(and hit enter)
 		
 
 
