@@ -14,6 +14,7 @@
 2.file-icons
 3.Bracket Pair Colorizer 2
 4.Dummy Text Generator
+5.code snapshort
 
 		   🆂🅷🅾🆁🆃🅲🆄🆃 🅲🅾🅼🅼🅰🅽🅳🆂
 		 -------------------------
